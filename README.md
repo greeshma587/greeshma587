@@ -1,4 +1,4 @@
-## Hi there 👋
+## ⚡ Fun fact:“First, solve the problem. Then, write the code.” – John Johnson 
 
 <!--
 **greeshma587/greeshma587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
